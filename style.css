@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:rgb(240, 231, 231)
+}
+
+
+img {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    margin:60px 70px
+}
+
+.mind {
+    background-color:silver;
+    max-height: fit-content;
+    width: 20rem;
+    padding: 20px;
+    position: absolute;
+    top:10rem;
+    left:30rem;
+    border-radius: 10%;
+    padding: 2rem;
+    line-height:25px;
+
+}
+
+.moment {
+    background-color:silver;
+    max-height: fit-content;
+    width: 30rem;
+    padding: 20px;
+    border-radius: 25px;
+    padding: 2rem;
+    line-height:25px;
+    margin-bottom: 20px;
+}
+
+.circle {
+    background-color:purple;
+    position: absolute;
+    top:41rem;
+    left:40rem;
+    padding: 50px;
+    border-radius: 50%;
+}
